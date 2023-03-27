@@ -1,1 +1,1 @@
-# MidwestWhizKid.github.io
+midwestwhizkid.com
