@@ -8,6 +8,8 @@
         const logo = document.querySelector(".logo");
         logo.addEventListener("click", () => {
             logo.src = logos[Math.floor(Math.random() * 3)];
+
+            return false;
         });
     });
 })();
