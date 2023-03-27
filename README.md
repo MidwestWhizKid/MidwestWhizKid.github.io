@@ -1,1 +1,1 @@
-midwestwhizkid.com
+https://midwestwhizkid.com
